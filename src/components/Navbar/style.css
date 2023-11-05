@@ -1,0 +1,36 @@
+body{
+    margin: 0 ;
+    padding: 0;
+    position: relative;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.first-nav{
+    background-color: #2A3855;
+    margin: -21px 0 0 0;
+    display: flex;
+    color: white;
+    font-size: 0.85rem;
+    width: 100%;
+}
+
+.address{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float : left;
+    margin: 10px 50px;
+}
+
+.address > h4{
+    margin: 0 20px;
+}
+
+.Date{
+    width: 50%;
+    float: right;
+    text-align: right;
+    margin-right: 6%;
+}
+
