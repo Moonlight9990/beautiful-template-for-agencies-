@@ -40,45 +40,45 @@ const Body = () => {
                 <ul className='dropdown-menu'>
                   <li className='dropbtn'>Home <FontAwesomeIcon icon={faAngleDown} />
                     <div class="dropdown-content">
-                      <a href="#">Slider Header</a>
-                      <a href="#">Slider Classic</a>
-                      <a href="#">Static Header</a>
-                      <a href="#">Static Classic</a>
-                      <a href="#">Youtube Background</a>
-                      <a href="#">Youtube Classic</a>
-                      <a href="#">Self-hosted Video</a>
-                      <a href="#">Self-hosted Classic</a>
+                      <a href="#Home">Slider Header</a>
+                      <a href="#Home">Slider Classic</a>
+                      <a href="#Home">Static Header</a>
+                      <a href="#Home">Static Classic</a>
+                      <a href="#Home">Youtube Background</a>
+                      <a href="#Home">Youtube Classic</a>
+                      <a href="#Home">Self-hosted Video</a>
+                      <a href="#Home">Self-hosted Classic</a>
                     </div>
                   </li>
                   <li className='dropbtn'>Pages <FontAwesomeIcon icon={faAngleDown} /> 
                     <div class="dropdown-content1">
-                      <a href="#">Services</a>
-                      <a href="#">About</a>
-                      <a href="#">Alumni</a>
-                      <a href="#">Blank Page</a>
-                      <a href="#">404 Page</a>
-                      <a href="#">Login</a>
-                      <a href="#">Registration</a>
+                      <a href="#Home">Services</a>
+                      <a href="#Home">About</a>
+                      <a href="#Home">Alumni</a>
+                      <a href="#Home">Blank Page</a>
+                      <a href="#Home">404 Page</a>
+                      <a href="#Home">Login</a>
+                      <a href="#Home">Registration</a>
                     </div>
                   </li>
                   <li className='dropbtn'>News <FontAwesomeIcon icon={faAngleDown}/>
                     <div class="dropdown-content2">
-                      <a href="#">Newsroom</a>
-                      <a href="#">Single News</a>
+                      <a href="#Home">Newsroom</a>
+                      <a href="#Home">Single News</a>
                     </div>
                   </li>
                   <li className='dropbtn'>Elements <FontAwesomeIcon icon={faAngleDown} />
                     <div class="dropdown-content3">
-                      <a href="#">Button</a>
-                      <a href="#">Colors</a>
-                      <a href="#">Google Maps</a>
-                      <a href="#">Grid</a>
-                      <a href="#">Icons</a>
-                      <a href="#">Layout Helpers</a>
-                      <a href="#">Modal Videos</a>
-                      <a href="#">Owl Carousal</a>
-                      <a href="#">Slider</a>
-                      <a href="#">Typography</a>
+                      <a href="#Home">Button</a>
+                      <a href="#Home">Colors</a>
+                      <a href="#Home">Google Maps</a>
+                      <a href="#Home">Grid</a>
+                      <a href="#Home">Icons</a>
+                      <a href="#Home">Layout Helpers</a>
+                      <a href="#Home">Modal Videos</a>
+                      <a href="#Home">Owl Carousal</a>
+                      <a href="#Home">Slider</a>
+                      <a href="#Home">Typography</a>
                     </div>
                   </li>
                   <li>Contact </li>
@@ -372,7 +372,7 @@ const Body = () => {
 
       <div className='investment' data-aos='fade-up'  data-aos-once = "true">
         <p>If you have any query related investment... we are available 24/7</p>
-        <button className='contact-btn' href='#'> contact us</button>
+        <button className='contact-btn' href='#Home'> contact us</button>
       </div>
 
 
@@ -435,12 +435,12 @@ const Body = () => {
                   <div className="foot-text">
                     <div className="foot-text-left">
                       <ul className="list-unstyled">
-                        <li ><a className="color-white" href="#">Contact Us</a></li>
-                        <li ><a className="color-white" href="#">FAQ</a></li>
-                        <li ><a className="color-white" href="#">Privacy Policy</a></li>
-                        <li ><a className="color-white" href="#">Terms of Use</a></li>
-                        <li ><a className="color-white" href="#">Global Office</a></li>
-                        <li ><a className="color-white" href="#">Local Office</a></li>
+                        <li ><a className="color-white" href="#Home">Contact Us</a></li>
+                        <li ><a className="color-white" href="#Home">FAQ</a></li>
+                        <li ><a className="color-white" href="#Home">Privacy Policy</a></li>
+                        <li ><a className="color-white" href="#Home">Terms of Use</a></li>
+                        <li ><a className="color-white" href="#Home">Global Office</a></li>
+                        <li ><a className="color-white" href="#Home">Local Office</a></li>
                       </ul>
                     </div>
                     <div className="foot-text-right">
@@ -466,7 +466,7 @@ const Body = () => {
                         </div>
                       </div>
                      </a>
-                     <a href="#">
+                     <a href="#Home">
                       <div className="social-flex">
                         <div className="social-icon">
                           <FontAwesomeIcon icon={faFacebookF} className='icon' />
@@ -476,7 +476,7 @@ const Body = () => {
                         </div>
                       </div>
                      </a>
-                     <a href="#">
+                     <a href="#Home">
                       <div className="social-flex">
                         <div className="social-icon">
                           <FontAwesomeIcon icon={faGoogle} className='icon' />
