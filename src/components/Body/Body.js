@@ -317,7 +317,7 @@ const Body = () => {
 
             <div className='choose-grid'>
               <div className='choose-box1'>
-                  <img src={'https://prium.github.io/elixir/assets/images/why-choose-us.jpg'} alt='why-choose-us-image' className='choose-image'/>
+                  <img src={'https://prium.github.io/elixir/assets/images/why-choose-us.jpg'} alt='why-choose-us-image' className='choose'/>
               </div>
 
               <div className='text-box1'>
@@ -444,7 +444,7 @@ const Body = () => {
                       </ul>
                     </div>
                     <div className="foot-text-right">
-                     <a href="https://www.linkedin.com/in/shasere-elijah-2a7174293/" target='_blank'>
+                     <a href="https://www.linkedin.com/in/shasere-elijah-2a7174293/">
                       <div className="social-flex">
                         <div className="social-icon">
                           <div className="">
@@ -456,7 +456,7 @@ const Body = () => {
                         </div>
                       </div>
                      </a>
-                     <a href="https://twitter.com/Deflows_" target='_blank'>
+                     <a href="https://twitter.com/Deflows_">
                       <div className="social-flex">
                         <div className="social-icon">
                           <FontAwesomeIcon icon={faXTwitter} className='icon' />
