@@ -4,7 +4,7 @@ import AOS from 'aos'
 import 'aos/dist/aos.css'
 import { useState, useEffect} from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faLinkedinIn, faFacebook, faGoogle, faXTwitter, faFacebookF} from '@fortawesome/free-brands-svg-icons'
+import { faLinkedinIn, faGoogle, faXTwitter, faFacebookF} from '@fortawesome/free-brands-svg-icons'
 import {faAngleRight, faAngleDown,faChartColumn, faClock,
    faLightbulb, faHeadphones, faPlay, faUsers, faComments,
    faBoltLightning, faArrowRightLong, faCreditCard, faMessage,
